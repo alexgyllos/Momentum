@@ -10,9 +10,7 @@ https://momentum-experience.herokuapp.com/
 
 ---
 
-The project brief was as follows:
-
-## Educational App
+## The project brief was as follows:
 Create an interactive music playing app. The app can be used as a tool for musicians experimenting with different ways to make sound or as a means for entertainment.
 
 ## MVP
@@ -28,7 +26,7 @@ Create an interactive music playing app. The app can be used as a tool for music
 - Let users create their own sound board.
 - Allow users to record their in-app experiences.
 
-# IF YOU WANT TO RUN THE APP ON YOUR COMPUTER:
+## IF YOU WANT TO RUN THE APP ON YOUR COMPUTER:
 
 1. Download the Repo using the green "Clone or Download" button at the top right of this project's GitHub page.
 2. Using Terminal (or another CLI) navigate to the "project" folder run the following commands:
