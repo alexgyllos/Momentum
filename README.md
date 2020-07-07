@@ -1,7 +1,16 @@
-# ABOUT THE PROJECT
-This app provides an kinetic audio/visual experience. It takes user input via the webcam and passes it through the Machine Learning framework; PoseNet, this provides a map of keypoints attached to a person. We take the tracking data from the nose and allow the user to play sounds by moving over one of a number of shapes on the screen. There are 2 presets, one for Meditation/Yoga and another for Dance/Dubstep.
+# ABOUT MOMENTUM
+This app provides a kinetic, audio/visual experience. It takes user input via the webcam and passes it through the Machine Learning framework; PoseNet, this provides a map of keypoints attached to a person. We take the tracking data from the nose and allow the user to play sounds by moving over one of a number of shapes on the screen. There are 2 presets, one for Meditation/Yoga and another for Dance/Dubstep.
 
-The brief is as follows:
+<img  src="https://github.com/alexgyllos/files/blob/master/momentumPreview.png" alt="home page preview">
+
+If you want to visit the app; you can do so by visiting the following link:
+https://momentum-experience.herokuapp.com/
+
+### NOTE: The app was tested in Google Chrome and so it is advised to use the latest version of Chrome when navigating.
+
+---
+
+The project brief was as follows:
 
 ## Educational App
 Create an interactive music playing app. The app can be used as a tool for musicians experimenting with different ways to make sound or as a means for entertainment.
@@ -19,15 +28,12 @@ Create an interactive music playing app. The app can be used as a tool for music
 - Let users create their own sound board.
 - Allow users to record their in-app experiences.
 
-# HOW TO RUN THE APP
-
-### NOTE: The app was tested in Google Chrome and so it is advised to use the latest version of Chrome when navigating.
+# IF YOU WANT TO RUN THE APP ON YOUR COMPUTER:
 
 1. Download the Repo using the green "Clone or Download" button at the top right of this project's GitHub page.
-
 2. Using Terminal (or another CLI) navigate to the "project" folder run the following commands:
   - npm i
-  - npm start
+  - npm start 
 3. Open Chrome and enter localhost:3000 in the address bar.
 4. Enjoy!
 
